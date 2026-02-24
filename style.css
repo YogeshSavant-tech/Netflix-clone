@@ -6,6 +6,9 @@
 
 .main{
     background-image:  url("assets/img/bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: max(1000px , 100vw);
     height : 80vh;
     position :relative;
 }
@@ -18,6 +21,17 @@
     background-color: black;
 }
 nav{
+      max-width: 80vw;
+      justify-content: space-between;
+    margin : auto;
     display:flex;
-    justify-content: center;
+  
+    align-items: center;
+    height : 62px;
+}
+nav img{
+    color:red;
+    width: 114px;
+    position : relative;
+    z-index: inherit;
 }
