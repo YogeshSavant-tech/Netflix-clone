@@ -42,9 +42,9 @@ Netflix-Clone/
 ├── images/
 │   ├── logo.svg
 │   ├── bg.jpg
-│   ├── movie1.jpg
-│   ├── movie2.jpg
-│   └── ...
+│   ├── ....
+│   
+│    
 └── README.md
 ```
 
