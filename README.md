@@ -40,8 +40,8 @@ Netflix-Clone/
 ├── index.html
 ├── style.css
 ├── images/
-│   ├── logo.png
-│   ├── banner.jpg
+│   ├── logo.svg
+│   ├── bg.jpg
 │   ├── movie1.jpg
 │   ├── movie2.jpg
 │   └── ...
